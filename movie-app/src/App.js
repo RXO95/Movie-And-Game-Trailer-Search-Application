@@ -13,9 +13,9 @@ function App() {
     const [error, setError] = useState(null);  // Error state
 
     // YouTube API Key
-    const YOUTUBE_API_KEY = 'AIzaSyBtWZDfvdV42Zuuhbe8CVcPPJbTBy0L3oM'; 
+    const YOUTUBE_API_KEY = 'YOUR API KEY'; 
     // TMDb API Key (for movie/game metadata)
-    const TMDB_API_KEY = '3b4dbf518e668ab97baeb09fbaf6e9cc'; 
+    const TMDB_API_KEY = 'YOUR TMDB KEY'; 
     // Function to search for trailers (movies/games)
     function handleSearch() {
         if (!query.trim()) return; // Don't search if query is empty
