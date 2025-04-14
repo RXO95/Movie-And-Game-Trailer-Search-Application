@@ -59,11 +59,11 @@ The app will start on http://localhost:3000
   ├── index.js
   └── ...
 
-✍️ Author
-Rakshit (RXO95)
+## ✍️ Author
+Rakshit Kumar
 Shreya Shinde
 
-📜 License
+## 📜 License
 
 MIT License
 
