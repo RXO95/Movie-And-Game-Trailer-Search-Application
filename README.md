@@ -1,20 +1,20 @@
-# 🎬 Movie & Game Trailer Search Application
+# Movie & Game Trailer Search Application
 
 This is a React-based web application that allows users to search for **Movies** and **game trailers** using public APIs. It provides a simple and interactive interface to explore and watch trailers of your favorite movies and games.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search for **movies** and **games**
-- 🎞️ Display trailer previews
-- 📚 Fetches data dynamically using public APIs
-- 📱 Responsive design for both desktop and mobile
-- 🧠 Smooth user experience with real-time search results
+- Search for **movies** and **games**
+- Display trailer previews
+- Fetches data dynamically using public APIs
+- Responsive design for both desktop and mobile
+- Smooth user experience with real-time search results
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React.js** – Frontend UI framework
 - **Axios** – For API requests
@@ -24,7 +24,7 @@ This is a React-based web application that allows users to search for **Movies**
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Screenshot (557)](https://github.com/user-attachments/assets/f846cb35-99ce-4b53-a984-301b29208870)
 
@@ -33,7 +33,7 @@ This is a React-based web application that allows users to search for **Movies**
 
 ---
 
-## 📦 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository**
 
@@ -59,11 +59,11 @@ The app will start on http://localhost:3000
   ├── index.js
   └── ...
 
-## ✍️ Author
+## Author
 Rakshit Kumar
 Shreya Shinde
 
-## 📜 License
+## License
 
 MIT License
 
